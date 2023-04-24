@@ -23,6 +23,8 @@ public class CircleCatcher extends Application
 
     	primaryStage.setTitle("Circle Catcher");
         primaryStage.setScene(scene);
+//        primaryStage.setWidth(WINDOW_WIDTH);
+//        primaryStage.setHeight(WINDOW_HEIGHT);
         primaryStage.show();
     }
 	
