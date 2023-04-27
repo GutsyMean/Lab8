@@ -64,8 +64,7 @@ public class RandomCircle extends Circle
 		  move.setToX(300);
           move.setToY(200);
           //moveToCenter.setToY((windowHeight/2));
-          System.out.println(getCenterX());
-          System.out.println(getCenterY());
+
           move.setAutoReverse(false);
           move.setCycleCount(1);
 //          System.out.println(windowWidth/2);
